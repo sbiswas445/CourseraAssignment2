@@ -1,1 +1,0 @@
-# CourseraAssignment2
